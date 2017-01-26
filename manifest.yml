@@ -1,0 +1,6 @@
+---
+applications:
+- name: govuk-frontend-alpha
+  memory: 64M
+  path: ./build
+  buildpack: staticfile_buildpack
