@@ -1,13 +1,5 @@
-# Hello, World!
+# GOV.UK Frontend Alpha
 
-## Edit Me!
+This is the documentation for the GOV.UK Frontend Alpha component library
 
-Open `source/documentation/index.md` in your favourite text editor and start editing!
-
-You can write content in [Markdown](https://daringfireball.net/projects/markdown/) using **all** of the _usual_ syntax that you're used to!
-
-To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
-
-If you want slightly more control, you can always use <strong>HTML</strong>.
-
-For more detail and troubleshooting, take a look at the `README.md` file in the root of this project.
+[Download the 0.0.1-alpha release](https://github.com/alphagov/govuk_frontend_alpha/releases/download/0.0.1-alpha/govuk_frontend_alpha-0.0.1-npm.tgz)
